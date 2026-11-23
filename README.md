@@ -62,6 +62,11 @@ export TELEGRAM_TOKEN=...  TELEGRAM_CHAT_ID=...     # Windows: set TELEGRAM_TOKE
 python main.py --test
 ```
 
+## Sinyal kayıtları
+Her taramadaki bütün sinyaller `kayitlar/` klasörüne aylık CSV olarak yazılır (Excel ile açılabilir):
+- `sinyaller_YYYY-AA.csv` — puan eşiğini geçen **bütün** sinyaller: coin, yön, puan, fiyat, RSI, ATR, örnek stop/hedef, tetikleyen stratejiler ve Telegram'a bildirilip bildirilmediği (bekleme süresi yüzünden gönderilmeyenler de kaydedilir).
+- `strateji_sinyalleri_YYYY-AA.csv` — puan eşiğine bakmadan, **her stratejinin tek tek** verdiği her sinyal.
+
 ## Dosyalar
 - `config.yaml` — coinler, periyot, strateji ayarları, puan eşiği
 - `strategies.py` / `indicators.py` — stratejiler ve göstergeler (yeni strateji eklemek kolay)

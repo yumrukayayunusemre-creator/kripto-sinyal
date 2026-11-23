@@ -29,8 +29,8 @@ universe:
 workers: 8
 
 # Mum periyodu: 15m, 1h, 4h, 1d
-# GitHub Actions en sık 5-15 dakikada bir çalışabildiği için 1h veya 4h önerilir.
-timeframe: 1h
+# Değiştirirsen .github/workflows/scan.yml içindeki cron satırını da aynı sıklığa ayarla.
+timeframe: 15m
 
 # Kaç mum geçmiş çekilsin (göstergelerin ısınması için en az 200)
 candles: 300
@@ -99,7 +99,7 @@ scoring:
   trend_filter: true     # AL sinyali için fiyat EMA200 üstünde, SAT için altında olmalı
 
 # Aynı coin + aynı yön için tekrar bildirim göndermeden önce beklenecek mum sayısı
-cooldown_candles: 6
+cooldown_candles: 8      # 15m'de 8 mum = 2 saat
 
 # Bir taramada çok sinyal çıkarsa: bu sayıdan fazlaysa hepsi TEK özet mesajda gönderilir
 max_individual_messages: 5

@@ -2,14 +2,31 @@
 #  Kripto Sinyal Botu — ayarlar
 # ============================================================
 
-# Taranacak coinler (Binance sembolü, USDT paritesi)
-symbols:
-  - BTCUSDT
-  - ETHUSDT
-  - SOLUSDT
-  - BNBUSDT
-  - XRPUSDT
-  - AVAXUSDT
+# Taranacak coinler
+#   "ALL"  → Binance'teki bütün USDT pariteleri otomatik taranır (liste her çalışmada güncellenir)
+#   Ya da elle liste yazabilirsin:  symbols: [BTCUSDT, ETHUSDT, SOLUSDT]
+symbols: ALL
+
+# "ALL" modunda filtreler
+universe:
+  min_quote_volume: 3000000   # 24 saatlik işlem hacmi en az 3 milyon USDT olsun (0 = filtre yok)
+  max_symbols: 0              # en hacimli N coin ile sınırla (0 = sınır yok)
+  exclude:                    # her zaman hariç tutulacaklar
+    - USDCUSDT
+    - FDUSDUSDT
+    - TUSDUSDT
+    - USDPUSDT
+    - DAIUSDT
+    - EURUSDT
+    - AEURUSDT
+    - USDEUSDT
+    - BUSDUSDT
+    - XUSDUSDT
+    - EURIUSDT
+    - PAXGUSDT
+
+# Aynı anda kaç coin indirilsin (paralel tarama)
+workers: 8
 
 # Mum periyodu: 15m, 1h, 4h, 1d
 # GitHub Actions en sık 5-15 dakikada bir çalışabildiği için 1h veya 4h önerilir.
@@ -83,6 +100,9 @@ scoring:
 
 # Aynı coin + aynı yön için tekrar bildirim göndermeden önce beklenecek mum sayısı
 cooldown_candles: 6
+
+# Bir taramada çok sinyal çıkarsa: bu sayıdan fazlaysa hepsi TEK özet mesajda gönderilir
+max_individual_messages: 5
 
 # Her stratejinin tek başına verdiği sinyalleri de ayrıca bildir (çok mesaj gelebilir)
 notify_single_strategy: false

@@ -83,7 +83,14 @@ def main():
     min_score = cfg["scoring"]["min_score"]
     rows = []
 
-    symbols = ["SAHTE-1", "SAHTE-2"] if args.synthetic else cfg["symbols"]
+    if args.synthetic:
+        symbols = ["SAHTE-1", "SAHTE-2"]
+    elif isinstance(cfg["symbols"], str):
+        # "ALL" modunda backtest'i en hacimli 10 coinle yap (hepsi çok uzun sürer)
+        from data import get_all_symbols
+        symbols = get_all_symbols(max_symbols=10, exclude=cfg.get("universe", {}).get("exclude", []))
+    else:
+        symbols = cfg["symbols"]
     for k, symbol in enumerate(symbols):
         if args.synthetic:
             df = synthetic(args.candles, seed=k)

@@ -59,7 +59,7 @@ def get_klines(symbol: str, interval: str = "1h", limit: int = 300, closed_only:
                 frames.insert(0, part)
                 need -= len(part)
                 end = int(part["open_time"].astype("int64").min()) - 1
-                time.sleep(0.2)
+                time.sleep(0.05)
             df = _clean(pd.concat(frames))
             if closed_only:
                 now_ms = int(time.time() * 1000)
@@ -68,3 +68,35 @@ def get_klines(symbol: str, interval: str = "1h", limit: int = 300, closed_only:
         except Exception as e:  # bir kaynak olmazsa diğerini dene
             last_err = e
     raise RuntimeError(f"{symbol} verisi alınamadı: {last_err}")
+
+
+STABLE_BASES = {"USDC", "FDUSD", "TUSD", "USDP", "DAI", "EUR", "AEUR", "USDE", "BUSD", "XUSD", "EURI", "USD1", "PYUSD", "RLUSD", "BFUSD"}
+LEVERAGED = ("UPUSDT", "DOWNUSDT", "BULLUSDT", "BEARUSDT")
+
+
+def get_all_symbols(min_quote_volume=0, max_symbols=0, exclude=()) -> list:
+    """Binance'teki işlem gören tüm USDT paritelerini 24s hacme göre sıralı döndürür."""
+    exclude = set(exclude or ())
+    try:
+        info = requests.get("https://data-api.binance.vision/api/v3/exchangeInfo",
+                            params={"permissions": "SPOT"}, timeout=20).json()
+        trading = {s["symbol"] for s in info["symbols"]
+                   if s["status"] == "TRADING" and s["quoteAsset"] == "USDT"}
+        tick = requests.get("https://data-api.binance.vision/api/v3/ticker/24hr", timeout=20).json()
+        vols = {t["symbol"]: float(t["quoteVolume"]) for t in tick if t["symbol"] in trading}
+    except Exception as e:  # Binance olmazsa OKX listesi
+        print(f"[uyarı] Binance listesi alınamadı ({e}), OKX deneniyor")
+        r = requests.get("https://www.okx.com/api/v5/market/tickers", params={"instType": "SPOT"}, timeout=20)
+        vols = {}
+        for t in r.json()["data"]:
+            if t["instId"].endswith("-USDT"):
+                vols[t["instId"].replace("-", "")] = float(t["volCcy24h"])
+    out = []
+    for sym, v in sorted(vols.items(), key=lambda kv: -kv[1]):
+        base = sym[:-4]
+        if sym in exclude or base in STABLE_BASES or sym.endswith(LEVERAGED):
+            continue
+        if v < min_quote_volume:
+            continue
+        out.append(sym)
+    return out[:max_symbols] if max_symbols else out

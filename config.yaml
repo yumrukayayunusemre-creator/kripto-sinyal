@@ -94,7 +94,7 @@ strategies:
 # Toplam puan >= min_score ise AL, <= -min_score ise SAT bildirimi gider.
 # ------------------------------------------------------------
 scoring:
-  min_score: 2           # en az 2 strateji aynı yönü göstermeli
+  min_score: 3           # en az 3 strateji aynı yönü göstermeli
   lookback: 2            # sinyaller 2 mum içinde üst üste gelirse birlikte sayılır
   trend_filter: true     # AL sinyali için fiyat EMA200 üstünde, SAT için altında olmalı
 

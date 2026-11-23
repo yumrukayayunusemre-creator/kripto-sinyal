@@ -14,7 +14,7 @@ Binance'teki **bütün USDT paritelerini** (24s hacmi 3 milyon $ üstü olanlar)
 | Stochastic RSI | %K, %D'yi 20'nin altında yukarı keser | %K, %D'yi 80'in üstünde aşağı keser |
 | Donchian kırılımı | 20 mumun zirvesi kırılır | 20 mumun dibi kırılır |
 
-**Puanlama:** Her strateji +1 ya da −1 oy verir. Son 2 mumdaki oyların toplamı **≥ +2** olursa AL, **≤ −2** olursa SAT bildirimi gelir. Bunun üstüne bir trend filtresi uygulanır: fiyat EMA200'ün altındayken AL sinyali, üstündeyken SAT sinyali gönderilmez. Bir taramada 5'ten fazla sinyal çıkarsa hepsi **tek bir özet mesajda** gelir. Bütün ayarlar `config.yaml` dosyasında: sadece belirli coinleri taramak için `symbols: [BTCUSDT, ETHUSDT]` yazabilir, hacim filtresini `universe.min_quote_volume` ile değiştirebilirsin.
+**Puanlama:** Her strateji +1 ya da −1 oy verir. Son 2 mumdaki oyların toplamı **≥ +3** olursa AL, **≤ −3** olursa SAT bildirimi gelir. Bunun üstüne bir trend filtresi uygulanır: fiyat EMA200'ün altındayken AL sinyali, üstündeyken SAT sinyali gönderilmez. Bir taramada 5'ten fazla sinyal çıkarsa hepsi **tek bir özet mesajda** gelir. Bütün ayarlar `config.yaml` dosyasında: sadece belirli coinleri taramak için `symbols: [BTCUSDT, ETHUSDT]` yazabilir, hacim filtresini `universe.min_quote_volume` ile değiştirebilirsin.
 
 ---
 

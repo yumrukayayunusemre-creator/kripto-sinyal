@@ -5,7 +5,12 @@ on:
     # Her 5 dakikada bir, mum kapandıktan 1 dk sonra (01, 06, 11, ... dakikalar).
     # 15m: "1,16,31,46 * * * *"  |  1h: "2 * * * *"  |  4h: "2 */4 * * *"
     - cron: "1-59/5 * * * *"
-  workflow_dispatch: {}          # Actions sekmesinden elle çalıştırma butonu
+  workflow_dispatch:             # Elle çalıştırma butonu + cron-job.org tetiklemesi
+    inputs:
+      test:
+        description: "Telegram'a test mesajı da gönder"
+        type: boolean
+        default: false
 
 permissions:
   contents: write                # state.json'u (tekrar bildirim engeli) kaydetmek için
@@ -28,8 +33,8 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - name: Telegram bağlantı testi (sadece elle çalıştırınca)
-        if: github.event_name == 'workflow_dispatch'
+      - name: Telegram bağlantı testi (sadece istenirse)
+        if: inputs.test == true
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}

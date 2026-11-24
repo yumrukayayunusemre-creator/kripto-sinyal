@@ -286,3 +286,7 @@ mum_zamani_utc,tarama_zamani_utc,coin,yon,puan,fiyat,rsi,atr,ornek_stop,ornek_he
 2026-11-24 23:35,2026-11-24 23:40,BNBUSDT,SAT,-3,548.47,39.8,0.738783,549.578,546.254,EMA kesişimi | Supertrend dönüşü | Donchian kırılımı,hayır (bekleme süresi),5m
 2026-11-24 23:35,2026-11-24 23:40,WBTCUSDT,SAT,-4,59960.2,39.7,75.8022,60073.9,59732.8,EMA kesişimi | Bollinger + hacim patlaması | Supertrend dönüşü | Donchian kırılımı,evet,5m
 2026-11-24 23:35,2026-11-24 23:40,MSTRBUSDT,SAT,-3,78.05,43.7,0.207752,78.3616,77.4267,EMA kesişimi | Bollinger + hacim patlaması | Supertrend dönüşü,hayır (bekleme süresi),5m
+2026-11-24 23:40,2026-11-24 23:45,BTCUSDT,SAT,-3,59821.1,37.3,77.122,59936.7,59589.7,EMA kesişimi | Supertrend dönüşü | Donchian kırılımı,evet,5m
+2026-11-24 23:40,2026-11-24 23:45,ETHUSDT,SAT,-3,1679.6,40.5,2.50402,1683.36,1672.09,EMA kesişimi | Supertrend dönüşü | Donchian kırılımı,hayır (bekleme süresi),5m
+2026-11-24 23:40,2026-11-24 23:45,XAUTUSDT,SAT,-3,3549.09,42.3,3.33265,3554.09,3539.09,MACD kesişimi | Supertrend dönüşü | Donchian kırılımı,evet,5m
+2026-11-24 23:40,2026-11-24 23:45,AVAXUSDT,SAT,-3,6.569,39.7,0.0127001,6.58805,6.5309,EMA kesişimi | Supertrend dönüşü | Donchian kırılımı,evet,5m

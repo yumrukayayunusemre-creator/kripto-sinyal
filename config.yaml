@@ -28,9 +28,9 @@ universe:
 # Aynı anda kaç coin indirilsin (paralel tarama)
 workers: 8
 
-# Mum periyodu: 15m, 1h, 4h, 1d
+# Mum periyodu: 5m, 15m, 1h, 4h, 1d
 # Değiştirirsen .github/workflows/scan.yml içindeki cron satırını da aynı sıklığa ayarla.
-timeframe: 15m
+timeframe: 5m
 
 # Kaç mum geçmiş çekilsin (göstergelerin ısınması için en az 200)
 candles: 300
@@ -99,7 +99,7 @@ scoring:
   trend_filter: true     # AL sinyali için fiyat EMA200 üstünde, SAT için altında olmalı
 
 # Aynı coin + aynı yön için tekrar bildirim göndermeden önce beklenecek mum sayısı
-cooldown_candles: 8      # 15m'de 8 mum = 2 saat
+cooldown_candles: 24     # 5m'de 24 mum = 2 saat
 
 # Bir taramada çok sinyal çıkarsa: bu sayıdan fazlaysa hepsi TEK özet mesajda gönderilir
 max_individual_messages: 5

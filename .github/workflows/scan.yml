@@ -2,9 +2,9 @@ name: Kripto sinyal taraması
 
 on:
   schedule:
-    # Her 15 dakikada bir, mum kapandıktan 1 dk sonra (01, 16, 31, 46. dakikalar).
-    # 1h kullanıyorsan: "2 * * * *"   |   4h kullanıyorsan: "2 */4 * * *"
-    - cron: "1,16,31,46 * * * *"
+    # Her 5 dakikada bir, mum kapandıktan 1 dk sonra (01, 06, 11, ... dakikalar).
+    # 15m: "1,16,31,46 * * * *"  |  1h: "2 * * * *"  |  4h: "2 */4 * * *"
+    - cron: "1-59/5 * * * *"
   workflow_dispatch: {}          # Actions sekmesinden elle çalıştırma butonu
 
 permissions:

@@ -1,6 +1,6 @@
 # 📈 Kripto Sinyal Botu
 
-Binance'teki **bütün USDT paritelerini** (24s hacmi 3 milyon $ üstü olanlar) 15 dakikalık mumlarla, 15 dakikada bir tarar, 7 teknik stratejiyi çalıştırır ve en az birkaç strateji aynı yönü gösterdiğinde **Telegram'a AL/SAT bildirimi** gönderir. GitHub Actions üzerinde **ücretsiz** çalışır, yani bilgisayarının açık olması gerekmez.
+Binance'teki **bütün USDT paritelerini** (24s hacmi 3 milyon $ üstü olanlar) 5 dakikalık mumlarla, 5 dakikada bir tarar, 7 teknik stratejiyi çalıştırır ve en az birkaç strateji aynı yönü gösterdiğinde **Telegram'a AL/SAT bildirimi** gönderir. GitHub Actions üzerinde **ücretsiz** çalışır, yani bilgisayarının açık olması gerekmez.
 
 ## Stratejiler
 
@@ -36,7 +36,7 @@ Binance'teki **bütün USDT paritelerini** (24s hacmi 3 milyon $ üstü olanlar)
 4. **Settings → Actions → General → Workflow permissions** altında **Read and write permissions** seçeneğini işaretle.
 
 ### 3) Çalıştır
-**Actions** sekmesine git, "Kripto sinyal taraması" iş akışını seç ve **Run workflow** butonuna bas. Loglarda her coinin puanını görürsün. Bundan sonra bot 15 dakikada bir kendiliğinden çalışır.
+**Actions** sekmesine git, "Kripto sinyal taraması" iş akışını seç ve **Run workflow** butonuna bas. Loglarda her coinin puanını görürsün. Bundan sonra bot 5 dakikada bir kendiliğinden çalışır.
 
 > GitHub zamanlanmış işleri yoğun saatlerde 5–15 dakika gecikmeyle başlatabilir. Bot sadece kapanmış mumlara baktığı için gecikme sinyali bozmaz, sadece biraz geç gelmesine yol açar.
 > Repoda 60 gün boyunca hiç değişiklik olmazsa GitHub zamanlanmış işleri durdurur. Bot `state.json` dosyasını güncellediği için bu genelde olmaz.
@@ -73,7 +73,7 @@ Her taramadaki bütün sinyaller `kayitlar/` klasörüne aylık CSV olarak yazı
 - `data.py` — Binance ve OKX herkese açık fiyat verisi (API anahtarı gerekmez)
 - `main.py` — canlı tarama ve bildirim
 - `backtest.py` — strateji karşılaştırması
-- `.github/workflows/scan.yml` — 15 dakikalık otomatik çalışma
+- `.github/workflows/scan.yml` — 5 dakikalık otomatik çalışma
 
 ## ⚠️ Önemli
 Bu bot sadece teknik göstergelere bakarak **otomatik sinyal** üretir. Yatırım tavsiyesi değildir ve kâr garantisi vermez. Kripto piyasası çok oynaktır. Gerçek parayla işlem açmadan önce backtest sonuçlarına bak ve sinyalleri bir süre sadece izle.

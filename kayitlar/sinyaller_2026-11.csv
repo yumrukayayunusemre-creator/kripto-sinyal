@@ -70,3 +70,4 @@ mum_zamani_utc,tarama_zamani_utc,coin,yon,puan,fiyat,rsi,atr,ornek_stop,ornek_he
 2026-11-24 12:35,2026-11-24 12:41,APTUSDT,SAT,-3,0.3737,33.4,0.0014667,0.3759,0.3693,MACD kesişimi | Supertrend dönüşü | Donchian kırılımı,evet,5m
 2026-11-24 12:35,2026-11-24 12:41,ALGOUSDT,SAT,-3,0.0793,43.9,0.000279235,0.0797189,0.0784623,EMA kesişimi | MACD kesişimi | Supertrend dönüşü,evet,5m
 2026-11-24 12:40,2026-11-24 12:45,XAUTUSDT,AL,3,3634.0,70.0,4.17341,3627.74,3646.52,MACD kesişimi | Supertrend dönüşü | Donchian kırılımı,evet,5m
+2026-11-24 12:45,2026-11-24 12:50,XAUTUSDT,AL,3,3635.96,71.7,4.29459,3629.52,3648.84,MACD kesişimi | Supertrend dönüşü | Donchian kırılımı,hayır (bekleme süresi),5m

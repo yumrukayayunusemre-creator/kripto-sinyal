@@ -293,3 +293,12 @@ mum_zamani_utc,tarama_zamani_utc,coin,yon,puan,fiyat,rsi,atr,ornek_stop,ornek_he
 2026-11-25 00:00,2026-11-25 00:05,SAHARAUSDT,SAT,-4,0.00554,25.3,7.44182e-05,0.00565163,0.00531675,EMA kesişimi | Bollinger + hacim patlaması | Supertrend dönüşü | Donchian kırılımı,evet,5m
 2026-11-25 00:05,2026-11-25 00:10,KORUBUSDT,SAT,-3,5.41,37.6,0.045286,5.47793,5.27414,EMA kesişimi | Bollinger + hacim patlaması | Donchian kırılımı,evet,5m
 2026-11-25 00:05,2026-11-25 00:10,AIGENSYNUSDT,SAT,-4,0.01638,32.6,0.000115347,0.016553,0.016034,EMA kesişimi | Bollinger + hacim patlaması | Supertrend dönüşü | Donchian kırılımı,evet,5m
+2026-11-25 00:10,2026-11-25 00:15,ZECUSDT,SAT,-3,733.6,42.1,3.06326,738.195,724.41,EMA kesişimi | Supertrend dönüşü | Donchian kırılımı,evet,5m
+2026-11-25 00:10,2026-11-25 00:15,XRPUSDT,SAT,-3,0.9221,40.3,0.00168701,0.924631,0.917039,EMA kesişimi | Supertrend dönüşü | Donchian kırılımı,evet,5m
+2026-11-25 00:10,2026-11-25 00:15,NEARUSDT,SAT,-4,2.864,39.4,0.00944955,2.87817,2.83565,EMA kesişimi | Bollinger + hacim patlaması | Supertrend dönüşü | Donchian kırılımı,evet,5m
+2026-11-25 00:10,2026-11-25 00:15,UNIUSDT,SAT,-3,4.702,37.5,0.0133243,4.72199,4.66203,EMA kesişimi | Supertrend dönüşü | Donchian kırılımı,evet,5m
+2026-11-25 00:10,2026-11-25 00:15,ENAUSDT,SAT,-3,0.0975,37.0,0.00030657,0.0979599,0.0965803,EMA kesişimi | Supertrend dönüşü | Donchian kırılımı,evet,5m
+2026-11-25 00:10,2026-11-25 00:15,SUIUSDT,SAT,-4,0.6455,39.2,0.00145918,0.647689,0.641122,EMA kesişimi | Bollinger + hacim patlaması | Supertrend dönüşü | Donchian kırılımı,evet,5m
+2026-11-25 00:10,2026-11-25 00:15,LTCUSDT,SAT,-3,40.73,36.2,0.082032,40.853,40.4839,Bollinger + hacim patlaması | Supertrend dönüşü | Donchian kırılımı,evet,5m
+2026-11-25 00:10,2026-11-25 00:15,WLDUSDT,SAT,-3,0.2341,38.8,0.00069551,0.235143,0.232013,EMA kesişimi | Supertrend dönüşü | Donchian kırılımı,evet,5m
+2026-11-25 00:10,2026-11-25 00:15,KORUBUSDT,SAT,-3,5.36,33.0,0.0491942,5.43379,5.21242,EMA kesişimi | Bollinger + hacim patlaması | Donchian kırılımı,hayır (bekleme süresi),5m

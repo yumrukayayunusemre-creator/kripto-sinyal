@@ -599,3 +599,4 @@ mum_zamani_utc,tarama_zamani_utc,coin,yon,puan,fiyat,rsi,atr,ornek_stop,ornek_he
 2026-11-25 16:40,2026-11-25 16:45,SOXLBUSDT,SAT,-3,24.75,37.4,0.593759,25.6406,22.9687,MACD kesişimi | Supertrend dönüşü | Donchian kırılımı,evet,5m
 2026-11-25 16:40,2026-11-25 16:45,SOXSBUSDT,AL,3,76.0,63.2,1.09441,74.3584,79.2832,MACD kesişimi | Supertrend dönüşü | Donchian kırılımı,evet,5m
 2026-11-25 16:40,2026-11-25 16:45,BIGTIMEUSDT,AL,3,0.0069,60.3,0.000159712,0.00666043,0.00737913,EMA kesişimi | Bollinger + hacim patlaması | Donchian kırılımı,evet,5m
+2026-11-25 16:45,2026-11-25 16:50,BIGTIMEUSDT,AL,3,0.00669,51.1,0.000167589,0.00643862,0.00719277,EMA kesişimi | Bollinger + hacim patlaması | Donchian kırılımı,hayır (bekleme süresi),5m

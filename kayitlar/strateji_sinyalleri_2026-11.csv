@@ -7736,3 +7736,97 @@ mum_zamani_utc,coin,strateji,yon,fiyat,periyot
 2026-11-25 07:30,INITUSDT,EMA kesişimi,AL,0.0899,5m
 2026-11-25 07:30,TQQQBUSDT,Stochastic RSI,AL,43.3,5m
 2026-11-25 07:30,TSLABUSDT,RSI dönüşü,AL,378.09,5m
+2026-11-25 07:35,BTCUSDT,Bollinger + hacim patlaması,SAT,58846.9,5m
+2026-11-25 07:35,BTCUSDT,Donchian kırılımı,SAT,58846.9,5m
+2026-11-25 07:35,ETHUSDT,Bollinger + hacim patlaması,SAT,1642.82,5m
+2026-11-25 07:35,ETHUSDT,Donchian kırılımı,SAT,1642.82,5m
+2026-11-25 07:35,SOLUSDT,Bollinger + hacim patlaması,SAT,68.04,5m
+2026-11-25 07:35,SOLUSDT,Donchian kırılımı,SAT,68.04,5m
+2026-11-25 07:35,ZECUSDT,Bollinger + hacim patlaması,SAT,724.9,5m
+2026-11-25 07:35,ZECUSDT,Donchian kırılımı,SAT,724.9,5m
+2026-11-25 07:35,XRPUSDT,EMA kesişimi,SAT,0.9135,5m
+2026-11-25 07:35,XRPUSDT,Bollinger + hacim patlaması,SAT,0.9135,5m
+2026-11-25 07:35,XRPUSDT,Supertrend dönüşü,SAT,0.9135,5m
+2026-11-25 07:35,XRPUSDT,Donchian kırılımı,SAT,0.9135,5m
+2026-11-25 07:35,SOXLBUSDT,Donchian kırılımı,SAT,28.41,5m
+2026-11-25 07:35,NEARUSDT,Donchian kırılımı,SAT,2.825,5m
+2026-11-25 07:35,UUSDT,MACD kesişimi,AL,1.0004,5m
+2026-11-25 07:35,NVDABUSDT,Bollinger + hacim patlaması,SAT,148.7,5m
+2026-11-25 07:35,NVDABUSDT,Donchian kırılımı,SAT,148.7,5m
+2026-11-25 07:35,BNBUSDT,Bollinger + hacim patlaması,SAT,539.51,5m
+2026-11-25 07:35,BNBUSDT,Supertrend dönüşü,SAT,539.51,5m
+2026-11-25 07:35,BNBUSDT,Donchian kırılımı,SAT,539.51,5m
+2026-11-25 07:35,PEPEUSDT,Bollinger + hacim patlaması,SAT,3.46e-06,5m
+2026-11-25 07:35,PEPEUSDT,Supertrend dönüşü,SAT,3.46e-06,5m
+2026-11-25 07:35,PEPEUSDT,Donchian kırılımı,SAT,3.46e-06,5m
+2026-11-25 07:35,SOXSBUSDT,Donchian kırılımı,AL,69.18,5m
+2026-11-25 07:35,DOGEUSDT,Bollinger + hacim patlaması,SAT,0.05426,5m
+2026-11-25 07:35,DOGEUSDT,Supertrend dönüşü,SAT,0.05426,5m
+2026-11-25 07:35,DOGEUSDT,Donchian kırılımı,SAT,0.05426,5m
+2026-11-25 07:35,SPCXBUSDT,Bollinger + hacim patlaması,SAT,123.21,5m
+2026-11-25 07:35,SPCXBUSDT,Donchian kırılımı,SAT,123.21,5m
+2026-11-25 07:35,UNIUSDT,Bollinger + hacim patlaması,SAT,4.544,5m
+2026-11-25 07:35,UNIUSDT,Donchian kırılımı,SAT,4.544,5m
+2026-11-25 07:35,TRXUSDT,EMA kesişimi,SAT,0.3083,5m
+2026-11-25 07:35,TRXUSDT,Bollinger + hacim patlaması,SAT,0.3083,5m
+2026-11-25 07:35,TRXUSDT,Supertrend dönüşü,SAT,0.3083,5m
+2026-11-25 07:35,TRXUSDT,Donchian kırılımı,SAT,0.3083,5m
+2026-11-25 07:35,LINKUSDT,Bollinger + hacim patlaması,SAT,8.701,5m
+2026-11-25 07:35,LINKUSDT,Donchian kırılımı,SAT,8.701,5m
+2026-11-25 07:35,ENAUSDT,Bollinger + hacim patlaması,SAT,0.0954,5m
+2026-11-25 07:35,ENAUSDT,Donchian kırılımı,SAT,0.0954,5m
+2026-11-25 07:35,SUIUSDT,Bollinger + hacim patlaması,SAT,0.638,5m
+2026-11-25 07:35,SUIUSDT,Supertrend dönüşü,SAT,0.638,5m
+2026-11-25 07:35,SUIUSDT,Donchian kırılımı,SAT,0.638,5m
+2026-11-25 07:35,TAOUSDT,Donchian kırılımı,SAT,175.4,5m
+2026-11-25 07:35,GOOGLBUSDT,Donchian kırılımı,SAT,273.07,5m
+2026-11-25 07:35,LTCUSDT,Bollinger + hacim patlaması,SAT,40.16,5m
+2026-11-25 07:35,LTCUSDT,Donchian kırılımı,SAT,40.16,5m
+2026-11-25 07:35,ADAUSDT,EMA kesişimi,SAT,0.1424,5m
+2026-11-25 07:35,ADAUSDT,Bollinger + hacim patlaması,SAT,0.1424,5m
+2026-11-25 07:35,ADAUSDT,Supertrend dönüşü,SAT,0.1424,5m
+2026-11-25 07:35,ADAUSDT,Donchian kırılımı,SAT,0.1424,5m
+2026-11-25 07:35,SNDKBUSDT,Bollinger + hacim patlaması,SAT,73.69,5m
+2026-11-25 07:35,SNDKBUSDT,Donchian kırılımı,SAT,73.69,5m
+2026-11-25 07:35,AVAXUSDT,Bollinger + hacim patlaması,SAT,6.452,5m
+2026-11-25 07:35,AVAXUSDT,Donchian kırılımı,SAT,6.452,5m
+2026-11-25 07:35,LISTAUSDT,Donchian kırılımı,AL,0.1043,5m
+2026-11-25 07:35,QQQBUSDT,Donchian kırılımı,SAT,624.11,5m
+2026-11-25 07:35,INJUSDT,Bollinger + hacim patlaması,SAT,5.798,5m
+2026-11-25 07:35,INJUSDT,Supertrend dönüşü,SAT,5.798,5m
+2026-11-25 07:35,AAVEUSDT,Bollinger + hacim patlaması,SAT,92.4,5m
+2026-11-25 07:35,AAVEUSDT,Donchian kırılımı,SAT,92.4,5m
+2026-11-25 07:35,FETUSDT,Bollinger + hacim patlaması,SAT,0.105,5m
+2026-11-25 07:35,SKHYBUSDT,Bollinger + hacim patlaması,SAT,107.32,5m
+2026-11-25 07:35,SKHYBUSDT,Supertrend dönüşü,SAT,107.32,5m
+2026-11-25 07:35,SKHYBUSDT,Donchian kırılımı,SAT,107.32,5m
+2026-11-25 07:35,PUMPUSDT,Bollinger + hacim patlaması,SAT,0.002382,5m
+2026-11-25 07:35,NBISBUSDT,Donchian kırılımı,SAT,82.34,5m
+2026-11-25 07:35,WLFIUSDT,MACD kesişimi,SAT,0.0407,5m
+2026-11-25 07:35,XLMUSDT,EMA kesişimi,SAT,0.1229,5m
+2026-11-25 07:35,XLMUSDT,Bollinger + hacim patlaması,SAT,0.1229,5m
+2026-11-25 07:35,XLMUSDT,Supertrend dönüşü,SAT,0.1229,5m
+2026-11-25 07:35,XLMUSDT,Donchian kırılımı,SAT,0.1229,5m
+2026-11-25 07:35,SNXXBUSDT,Donchian kırılımı,SAT,1.47,5m
+2026-11-25 07:35,QNTUSDT,Donchian kırılımı,SAT,141.75,5m
+2026-11-25 07:35,ARBUSDT,EMA kesişimi,SAT,0.1095,5m
+2026-11-25 07:35,ARBUSDT,Supertrend dönüşü,SAT,0.1095,5m
+2026-11-25 07:35,HBARUSDT,Supertrend dönüşü,SAT,0.05011,5m
+2026-11-25 07:35,BEBUSDT,Donchian kırılımı,SAT,147.82,5m
+2026-11-25 07:35,TRUMPUSDT,Bollinger + hacim patlaması,SAT,0.833,5m
+2026-11-25 07:35,TRUMPUSDT,Donchian kırılımı,SAT,0.833,5m
+2026-11-25 07:35,BABYUSDT,Stochastic RSI,AL,0.00884,5m
+2026-11-25 07:35,INITUSDT,Stochastic RSI,SAT,0.08892,5m
+2026-11-25 07:35,TQQQBUSDT,Donchian kırılımı,SAT,42.99,5m
+2026-11-25 07:35,ASTERUSDT,Bollinger + hacim patlaması,SAT,0.4778,5m
+2026-11-25 07:35,ASTERUSDT,Supertrend dönüşü,SAT,0.4778,5m
+2026-11-25 07:35,ASTERUSDT,Donchian kırılımı,SAT,0.4778,5m
+2026-11-25 07:35,BCHUSDT,Bollinger + hacim patlaması,SAT,195.7,5m
+2026-11-25 07:35,BCHUSDT,Donchian kırılımı,SAT,195.7,5m
+2026-11-25 07:35,ICPUSDT,Donchian kırılımı,SAT,1.961,5m
+2026-11-25 07:35,XPLUSDT,Supertrend dönüşü,SAT,0.04474,5m
+2026-11-25 07:35,TSLABUSDT,Stochastic RSI,AL,377.49,5m
+2026-11-25 07:35,TSLABUSDT,Donchian kırılımı,SAT,377.49,5m
+2026-11-25 07:35,FILUSDT,Bollinger + hacim patlaması,SAT,0.5277,5m
+2026-11-25 07:35,FILUSDT,Donchian kırılımı,SAT,0.5277,5m
+2026-11-25 07:35,RENDERUSDT,Donchian kırılımı,SAT,1.242,5m

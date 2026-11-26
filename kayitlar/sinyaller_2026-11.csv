@@ -742,3 +742,5 @@ mum_zamani_utc,tarama_zamani_utc,coin,yon,puan,fiyat,rsi,atr,ornek_stop,ornek_he
 2026-11-26 08:15,2026-11-26 08:20,MANTRAUSDT,SAT,-3,0.00267,43.0,8.32817e-05,0.00279492,0.00242015,EMA kesişimi | MACD kesişimi | Supertrend dönüşü,evet,5m
 2026-11-26 08:15,2026-11-26 08:20,ARBUSDT,AL,3,0.1152,61.4,0.000314789,0.114728,0.116144,EMA kesişimi | Bollinger + hacim patlaması | Supertrend dönüşü,evet,5m
 2026-11-26 08:35,2026-11-26 08:40,BIGTIMEUSDT,SAT,-3,0.00548,32.7,7.28278e-05,0.00558924,0.00526152,Bollinger + hacim patlaması | MACD kesişimi | Donchian kırılımı,evet,5m
+2026-11-26 08:40,2026-11-26 08:46,LINKUSDT,AL,3,9.208,63.6,0.0159415,9.18409,9.25582,EMA kesişimi | Supertrend dönüşü | Donchian kırılımı,evet,5m
+2026-11-26 08:40,2026-11-26 08:46,BIGTIMEUSDT,SAT,-3,0.00552,37.1,7.33401e-05,0.00563001,0.00529998,Bollinger + hacim patlaması | MACD kesişimi | Donchian kırılımı,hayır (bekleme süresi),5m

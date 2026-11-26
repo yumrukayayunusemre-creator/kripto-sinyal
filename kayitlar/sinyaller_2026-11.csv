@@ -869,3 +869,13 @@ mum_zamani_utc,tarama_zamani_utc,coin,yon,puan,fiyat,rsi,atr,ornek_stop,ornek_he
 2026-11-26 14:50,2026-11-26 14:55,FILUSDT,SAT,-4,0.543,32.1,0.00143692,0.545155,0.538689,EMA kesişimi | MACD kesişimi | Supertrend dönüşü | Donchian kırılımı,evet,5m
 2026-11-26 14:55,2026-11-26 15:01,QQQBUSDT,AL,3,638.34,57.5,0.566465,637.49,640.039,EMA kesişimi | MACD kesişimi | Supertrend dönüşü,evet,5m
 2026-11-26 14:55,2026-11-26 15:01,XLMUSDT,SAT,-3,0.1273,39.4,0.000274733,0.127712,0.126476,EMA kesişimi | MACD kesişimi | Supertrend dönüşü,evet,5m
+2026-11-26 15:00,2026-11-26 15:05,BTCUSDT,SAT,-3,60383.3,28.6,130.602,60579.2,59991.5,Bollinger + hacim patlaması | Supertrend dönüşü | Donchian kırılımı,evet,5m
+2026-11-26 15:00,2026-11-26 15:05,ETHUSDT,SAT,-3,1683.52,23.2,4.67383,1690.53,1669.5,Bollinger + hacim patlaması | Supertrend dönüşü | Donchian kırılımı,evet,5m
+2026-11-26 15:00,2026-11-26 15:05,SOLUSDT,SAT,-3,70.54,30.3,0.211,70.8565,69.907,EMA kesişimi | Bollinger + hacim patlaması | Donchian kırılımı,evet,5m
+2026-11-26 15:00,2026-11-26 15:05,BNBUSDT,SAT,-3,548.32,25.5,1.17313,550.08,544.801,Bollinger + hacim patlaması | Supertrend dönüşü | Donchian kırılımı,evet,5m
+2026-11-26 15:00,2026-11-26 15:05,WBTCUSDT,SAT,-3,60459.9,30.1,129.291,60653.8,60072.0,Bollinger + hacim patlaması | Supertrend dönüşü | Donchian kırılımı,evet,5m
+2026-11-26 15:00,2026-11-26 15:05,DOGEUSDT,SAT,-3,0.05633,24.2,0.00016526,0.0565779,0.0558342,EMA kesişimi | Bollinger + hacim patlaması | Donchian kırılımı,evet,5m
+2026-11-26 15:00,2026-11-26 15:05,ADAUSDT,SAT,-3,0.1473,24.3,0.000491207,0.148037,0.145826,EMA kesişimi | Supertrend dönüşü | Donchian kırılımı,evet,5m
+2026-11-26 15:00,2026-11-26 15:05,KORUBUSDT,SAT,-4,5.23,34.4,0.022153,5.26323,5.16354,Bollinger + hacim patlaması | MACD kesişimi | Supertrend dönüşü | Donchian kırılımı,evet,5m
+2026-11-26 15:00,2026-11-26 15:05,XLMUSDT,SAT,-3,0.1263,26.2,0.000362252,0.126843,0.125213,EMA kesişimi | Bollinger + hacim patlaması | Donchian kırılımı,hayır (bekleme süresi),5m
+2026-11-26 15:00,2026-11-26 15:05,ETHFIUSDT,SAT,-3,0.4334,30.5,0.00181615,0.436124,0.427952,Bollinger + hacim patlaması | MACD kesişimi | Donchian kırılımı,evet,5m

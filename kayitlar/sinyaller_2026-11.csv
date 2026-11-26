@@ -805,3 +805,5 @@ mum_zamani_utc,tarama_zamani_utc,coin,yon,puan,fiyat,rsi,atr,ornek_stop,ornek_he
 2026-11-26 11:15,2026-11-26 11:20,FILUSDT,AL,3,0.5494,62.9,0.00108309,0.547775,0.552649,EMA kesişimi | MACD kesişimi | Donchian kırılımı,evet,5m
 2026-11-26 11:20,2026-11-26 11:25,SNXXBUSDT,AL,3,1.54,60.2,0.0105092,1.52424,1.57153,EMA kesişimi | MACD kesişimi | Supertrend dönüşü,evet,5m
 2026-11-26 11:20,2026-11-26 11:25,ETHFIUSDT,AL,3,0.4434,59.8,0.00171051,0.440834,0.448532,EMA kesişimi | Supertrend dönüşü | Donchian kırılımı,evet,5m
+2026-11-26 11:25,2026-11-26 11:31,SPCXBUSDT,AL,3,129.05,57.8,0.23519,128.697,129.756,EMA kesişimi | MACD kesişimi | Supertrend dönüşü,evet,5m
+2026-11-26 11:25,2026-11-26 11:31,ETHFIUSDT,AL,3,0.4438,61.0,0.00165976,0.44131,0.448779,EMA kesişimi | Supertrend dönüşü | Donchian kırılımı,hayır (bekleme süresi),5m

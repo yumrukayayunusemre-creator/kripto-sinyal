@@ -946,3 +946,4 @@ mum_zamani_utc,tarama_zamani_utc,coin,yon,puan,fiyat,rsi,atr,ornek_stop,ornek_he
 2026-11-26 21:00,2026-11-26 21:05,SKHYBUSDT,AL,3,111.95,74.7,0.102323,111.797,112.257,Bollinger + hacim patlaması | MACD kesişimi | Donchian kırılımı,evet,5m
 2026-11-26 21:05,2026-11-26 21:10,SKHYBUSDT,AL,3,111.92,72.5,0.106443,111.76,112.239,Bollinger + hacim patlaması | MACD kesişimi | Donchian kırılımı,hayır (bekleme süresi),5m
 2026-11-26 21:05,2026-11-26 21:10,SNDKBUSDT,AL,3,75.75,68.8,0.0952719,75.6071,76.0358,Bollinger + hacim patlaması | MACD kesişimi | Donchian kırılımı,evet,5m
+2026-11-26 21:10,2026-11-26 21:15,SNDKBUSDT,AL,3,75.72,66.2,0.0934668,75.5798,76.0004,Bollinger + hacim patlaması | MACD kesişimi | Donchian kırılımı,hayır (bekleme süresi),5m

@@ -22636,3 +22636,72 @@ mum_zamani_utc,coin,strateji,yon,fiyat,periyot
 2026-11-27 05:00,XLMUSDT,MACD kesişimi,AL,0.1288,5m
 2026-11-27 05:00,JSTUSDT,Donchian kırılımı,SAT,0.14223,5m
 2026-11-27 05:00,QQQBUSDT,Donchian kırılımı,AL,651.22,5m
+2026-11-27 05:05,BTCUSDT,Bollinger + hacim patlaması,AL,61743.6,5m
+2026-11-27 05:05,BTCUSDT,Donchian kırılımı,AL,61743.6,5m
+2026-11-27 05:05,ETHUSDT,Bollinger + hacim patlaması,AL,1745.77,5m
+2026-11-27 05:05,ETHUSDT,MACD kesişimi,AL,1745.77,5m
+2026-11-27 05:05,ETHUSDT,Donchian kırılımı,AL,1745.77,5m
+2026-11-27 05:05,SOLUSDT,Bollinger + hacim patlaması,AL,73.19,5m
+2026-11-27 05:05,XRPUSDT,Bollinger + hacim patlaması,AL,0.966,5m
+2026-11-27 05:05,NEARUSDT,EMA kesişimi,AL,3.119,5m
+2026-11-27 05:05,NEARUSDT,MACD kesişimi,AL,3.119,5m
+2026-11-27 05:05,BNBUSDT,MACD kesişimi,AL,566.78,5m
+2026-11-27 05:05,BNBUSDT,Donchian kırılımı,AL,566.78,5m
+2026-11-27 05:05,WBTCUSDT,Bollinger + hacim patlaması,AL,61789.1,5m
+2026-11-27 05:05,UUSDT,EMA kesişimi,AL,1.0006,5m
+2026-11-27 05:05,INITUSDT,EMA kesişimi,SAT,0.13362,5m
+2026-11-27 05:05,UNIUSDT,Donchian kırılımı,AL,4.874,5m
+2026-11-27 05:05,SUIUSDT,MACD kesişimi,AL,0.6876,5m
+2026-11-27 05:05,SUIUSDT,Donchian kırılımı,AL,0.6876,5m
+2026-11-27 05:05,SOXLBUSDT,Bollinger + hacim patlaması,AL,36.89,5m
+2026-11-27 05:05,SOXLBUSDT,Donchian kırılımı,AL,36.89,5m
+2026-11-27 05:05,TRXUSDT,Bollinger + hacim patlaması,AL,0.3057,5m
+2026-11-27 05:05,TRXUSDT,MACD kesişimi,AL,0.3057,5m
+2026-11-27 05:05,DOGEUSDT,Bollinger + hacim patlaması,AL,0.05805,5m
+2026-11-27 05:05,ADAUSDT,MACD kesişimi,AL,0.1525,5m
+2026-11-27 05:05,ADAUSDT,Donchian kırılımı,AL,0.1525,5m
+2026-11-27 05:05,LTCUSDT,Donchian kırılımı,AL,44.86,5m
+2026-11-27 05:05,NVDABUSDT,Bollinger + hacim patlaması,AL,155.92,5m
+2026-11-27 05:05,NVDABUSDT,MACD kesişimi,AL,155.92,5m
+2026-11-27 05:05,NVDABUSDT,Donchian kırılımı,AL,155.92,5m
+2026-11-27 05:05,ENAUSDT,Donchian kırılımı,AL,0.1051,5m
+2026-11-27 05:05,LINKUSDT,Bollinger + hacim patlaması,AL,9.68,5m
+2026-11-27 05:05,LINKUSDT,Donchian kırılımı,AL,9.68,5m
+2026-11-27 05:05,AAVEUSDT,Bollinger + hacim patlaması,AL,97.22,5m
+2026-11-27 05:05,AAVEUSDT,MACD kesişimi,AL,97.22,5m
+2026-11-27 05:05,AAVEUSDT,Donchian kırılımı,AL,97.22,5m
+2026-11-27 05:05,TAOUSDT,Bollinger + hacim patlaması,AL,187.9,5m
+2026-11-27 05:05,TAOUSDT,Donchian kırılımı,AL,187.9,5m
+2026-11-27 05:05,KORUBUSDT,Donchian kırılımı,AL,5.93,5m
+2026-11-27 05:05,BCHUSDT,Stochastic RSI,AL,215.2,5m
+2026-11-27 05:05,INJUSDT,Bollinger + hacim patlaması,AL,6.412,5m
+2026-11-27 05:05,INJUSDT,MACD kesişimi,AL,6.412,5m
+2026-11-27 05:05,INJUSDT,Donchian kırılımı,AL,6.412,5m
+2026-11-27 05:05,WLDUSDT,Bollinger + hacim patlaması,AL,0.2519,5m
+2026-11-27 05:05,WLDUSDT,Donchian kırılımı,AL,0.2519,5m
+2026-11-27 05:05,SKHYBUSDT,Bollinger + hacim patlaması,AL,118.43,5m
+2026-11-27 05:05,SKHYBUSDT,Donchian kırılımı,AL,118.43,5m
+2026-11-27 05:05,ONEUSDT,Stochastic RSI,AL,0.001101,5m
+2026-11-27 05:05,SOXSBUSDT,Bollinger + hacim patlaması,SAT,52.97,5m
+2026-11-27 05:05,SOXSBUSDT,Donchian kırılımı,SAT,52.97,5m
+2026-11-27 05:05,HBARUSDT,Donchian kırılımı,AL,0.05521,5m
+2026-11-27 05:05,MSTRBUSDT,MACD kesişimi,AL,85.16,5m
+2026-11-27 05:05,MSTRBUSDT,Donchian kırılımı,AL,85.16,5m
+2026-11-27 05:05,AVAXUSDT,Donchian kırılımı,AL,6.782,5m
+2026-11-27 05:05,QNTUSDT,MACD kesişimi,AL,151.79,5m
+2026-11-27 05:05,QNTUSDT,Donchian kırılımı,AL,151.79,5m
+2026-11-27 05:05,BIGTIMEUSDT,Stochastic RSI,AL,0.00672,5m
+2026-11-27 05:05,XLMUSDT,Bollinger + hacim patlaması,AL,0.1294,5m
+2026-11-27 05:05,XLMUSDT,Donchian kırılımı,AL,0.1294,5m
+2026-11-27 05:05,CRCLBUSDT,MACD kesişimi,AL,50.73,5m
+2026-11-27 05:05,TRUMPUSDT,MACD kesişimi,AL,0.877,5m
+2026-11-27 05:05,ICPUSDT,MACD kesişimi,AL,2.061,5m
+2026-11-27 05:05,NBISBUSDT,Bollinger + hacim patlaması,AL,92.84,5m
+2026-11-27 05:05,NBISBUSDT,Donchian kırılımı,AL,92.84,5m
+2026-11-27 05:05,MUBUSDT,Donchian kırılımı,AL,641.66,5m
+2026-11-27 05:05,ARBUSDT,Donchian kırılımı,AL,0.1191,5m
+2026-11-27 05:05,TIAUSDT,MACD kesişimi,AL,0.3475,5m
+2026-11-27 05:05,TIAUSDT,Donchian kırılımı,AL,0.3475,5m
+2026-11-27 05:05,QQQBUSDT,Bollinger + hacim patlaması,AL,651.84,5m
+2026-11-27 05:05,ONDOUSDT,MACD kesişimi,AL,0.2954,5m
+2026-11-27 05:05,ONDOUSDT,Donchian kırılımı,AL,0.2954,5m

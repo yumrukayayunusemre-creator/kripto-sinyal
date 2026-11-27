@@ -1270,3 +1270,12 @@ mum_zamani_utc,tarama_zamani_utc,coin,yon,puan,fiyat,rsi,atr,ornek_stop,ornek_he
 2026-11-27 17:55,2026-11-27 18:01,DRAMBUSDT,AL,3,37.67,67.9,0.151578,37.4426,38.1247,Bollinger + hacim patlaması | MACD kesişimi | Donchian kırılımı,evet,5m
 2026-11-27 17:55,2026-11-27 18:01,TQQQBUSDT,AL,3,48.78,68.7,0.302637,48.326,49.6879,Bollinger + hacim patlaması | MACD kesişimi | Donchian kırılımı,evet,5m
 2026-11-27 17:55,2026-11-27 18:01,WUSDT,AL,3,0.00925,61.9,4.1742e-05,0.00918739,0.00937523,EMA kesişimi | MACD kesişimi | Donchian kırılımı,evet,5m
+2026-11-27 18:00,2026-11-27 18:05,SOXLBUSDT,AL,3,36.5,65.8,0.559491,35.6608,38.1785,Bollinger + hacim patlaması | MACD kesişimi | Donchian kırılımı,hayır (bekleme süresi),5m
+2026-11-27 18:00,2026-11-27 18:05,SOXSBUSDT,SAT,-3,53.5,34.5,1.0121,55.0182,50.4637,Bollinger + hacim patlaması | MACD kesişimi | Donchian kırılımı,hayır (bekleme süresi),5m
+2026-11-27 18:00,2026-11-27 18:05,SKHYBUSDT,AL,3,119.61,68.5,0.727147,118.519,121.791,Bollinger + hacim patlaması | MACD kesişimi | Donchian kırılımı,hayır (bekleme süresi),5m
+2026-11-27 18:00,2026-11-27 18:05,SNDKBUSDT,AL,3,86.37,72.0,0.799242,85.1711,88.7677,Bollinger + hacim patlaması | MACD kesişimi | Donchian kırılımı,evet,5m
+2026-11-27 18:00,2026-11-27 18:05,KORUBUSDT,AL,3,6.09,65.3,0.0606304,5.99905,6.27189,Bollinger + hacim patlaması | MACD kesişimi | Donchian kırılımı,hayır (bekleme süresi),5m
+2026-11-27 18:00,2026-11-27 18:05,MUBUSDT,AL,3,647.81,63.7,4.30892,641.347,660.737,Bollinger + hacim patlaması | MACD kesişimi | Donchian kırılımı,evet,5m
+2026-11-27 18:00,2026-11-27 18:05,SNXXBUSDT,AL,3,1.96,73.5,0.0334224,1.90987,2.06027,Bollinger + hacim patlaması | MACD kesişimi | Donchian kırılımı,evet,5m
+2026-11-27 18:00,2026-11-27 18:05,DRAMBUSDT,AL,3,37.69,68.4,0.154323,37.4585,38.153,Bollinger + hacim patlaması | MACD kesişimi | Donchian kırılımı,hayır (bekleme süresi),5m
+2026-11-27 18:00,2026-11-27 18:05,TQQQBUSDT,AL,3,48.83,69.3,0.309591,48.3656,49.7588,Bollinger + hacim patlaması | MACD kesişimi | Donchian kırılımı,hayır (bekleme süresi),5m

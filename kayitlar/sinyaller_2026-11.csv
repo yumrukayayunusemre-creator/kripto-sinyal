@@ -1412,3 +1412,4 @@ mum_zamani_utc,tarama_zamani_utc,coin,yon,puan,fiyat,rsi,atr,ornek_stop,ornek_he
 2026-11-28 04:00,2026-11-28 04:05,CRCLBUSDT,AL,3,49.79,60.2,0.0463152,49.7205,49.9289,EMA kesişimi | MACD kesişimi | Supertrend dönüşü,evet,5m
 2026-11-28 04:05,2026-11-28 04:10,DRAMBUSDT,AL,3,37.59,59.8,0.0187168,37.5619,37.6462,EMA kesişimi | Supertrend dönüşü | Stochastic RSI,evet,5m
 2026-11-28 04:15,2026-11-28 04:21,SEIUSDT,AL,4,0.03886,64.8,0.000198742,0.0385619,0.0394562,EMA kesişimi | Bollinger + hacim patlaması | MACD kesişimi | Supertrend dönüşü,hayır (bekleme süresi),5m
+2026-11-28 04:20,2026-11-28 04:25,SEIUSDT,AL,4,0.03898,67.3,0.000224546,0.0386432,0.0396536,EMA kesişimi | Bollinger + hacim patlaması | MACD kesişimi | Supertrend dönüşü,hayır (bekleme süresi),5m
